@@ -14,7 +14,8 @@ li,
 a,
 blockquote,
 dl,
-dt {
+dt,
+button {
   margin: 0;
 
   font-family: "Comfortaa", cursive, -apple-system, BlinkMacSystemFont,
